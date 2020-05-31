@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerSample.BeanStalkWorker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
